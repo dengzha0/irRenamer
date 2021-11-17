@@ -5,8 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Renamer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="不规律的重命名" Height="540" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
-
+        <Border Padding="10">
+            <StackPanel>
+                <TextBlock Text="1. 选择目录" FontWeight="Bold" Margin="0 0 0 0"/>
+                <TextBlock Text="选择要重命名的文件或文件夹所在目录" Foreground="Gray" Margin="0 5 0 5"/>
+                <Grid Height="24">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="60" />
+                    </Grid.ColumnDefinitions>
+                    <TextBox Grid.Column="0" VerticalContentAlignment="Center" Margin="0 0 5 0"/>
+                    <Button Content="选择目录" Grid.Column="1" />
+                </Grid>
+                <TextBlock Text="2. 获取文件名" FontWeight="Bold" Margin="0 10 0 0"/>
+                <TextBlock Text="获取目录下的所有文件和文件夹（不包含子文件夹）" Foreground="Gray" Margin="0 5 0 5"/>
+                <Button Content="执行操作" Height="24"/>
+                <TextBlock Text="3. 修改文件名" FontWeight="Bold" Margin="0 10 0 0"/>
+                <TextBlock Text="在打开的Excel文件中修改重命名后的名称（不填表示不修改）" Foreground="Gray" Margin="0 5 0 2"/>
+                <TextBlock Text="修改完成后请保存并关闭Excel文件" Foreground="Gray" Margin="0 0 0 5"/>
+                <Button Content="打开Excel文件" Height="24"/>
+                <TextBlock Text="4. 重命名" FontWeight="Bold" Margin="0 10 0 0"/>
+                <TextBlock Text="按照Excel中的文件名进行重命名操作" Foreground="Gray" Margin="0 5 0 2"/>
+                <TextBlock Text="遇到重复的文件名时，会自动跳过，全部执行完成后会列出重复的文件" Foreground="Gray" Margin="0 0 0 5"/>
+                <Button Content="重命名" Height="24"/>
+                <Separator Margin="0 60 0 0" />
+                <TextBlock Text="说明：" FontWeight="Bold" Margin="0 10 0 0"/>
+                <TextBlock Text="本工具主要用于没有规律的批量重命名操作。" Foreground="Gray" Margin="0 5 0 0"/>
+                <TextBlock Text="请按照上述顺序依次操作，避免产生不可预知的错误。" Foreground="Gray" Margin="0 5 0 0"/>
+                <TextBlock Text="本工具也适用于有规律的批量重命名，不过您应该有更好的选择。" Foreground="Gray" Margin="0 5 0 0"/>
+            </StackPanel>
+        </Border>
     </Grid>
 </Window>

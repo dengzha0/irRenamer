@@ -1,0 +1,5 @@
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.exe
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.dll
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.deps.json
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.runtimeconfig.json
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.pdb
