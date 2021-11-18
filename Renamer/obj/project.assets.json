@@ -176,9 +176,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Renamer\\Renamer\\Renamer.csproj",
-      "projectName": "Renamer",
-      "projectPath": "D:\\GitHub\\Renamer\\Renamer\\Renamer.csproj",
+      "projectUniqueName": "D:\\GitHub\\Renamer\\Renamer\\irRenamer.csproj",
+      "projectName": "irRenamer",
+      "projectPath": "D:\\GitHub\\Renamer\\Renamer\\irRenamer.csproj",
       "packagesPath": "C:\\Users\\Dengzhao\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\Renamer\\Renamer\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,6 +1,6 @@
-D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.exe
-D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.exe.config
-D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\Renamer.pdb
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\irRenamer.exe
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\irRenamer.exe.config
+D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\irRenamer.pdb
 D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\NPOI.OOXML.dll
 D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\NPOI.OpenXml4Net.dll
 D:\GitHub\Renamer\Renamer\bin\Release\net6.0-windows\publish\NPOI.OpenXmlFormats.dll

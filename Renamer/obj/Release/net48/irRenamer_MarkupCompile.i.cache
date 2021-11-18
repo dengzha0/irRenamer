@@ -1,18 +1,18 @@
-﻿Renamer
+﻿irRenamer
 1.0.0.0
 
 winexe
 C#
 .cs
-D:\GitHub\Renamer\Renamer\obj\Debug\net48\
-Renamer
+D:\GitHub\Renamer\Renamer\obj\Release\net48\
+irRenamer
 none
 false
-TRACE;DEBUG;NETFRAMEWORK;NET48;
+TRACE;RELEASE;NETFRAMEWORK;NET48;
 D:\GitHub\Renamer\Renamer\App.xaml
 11407045341
 1-139049065
-6-1789008942
+61522277567
 25-434992166
 MainWindow.xaml;
 

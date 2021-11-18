@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Renamer
+namespace irRenamer
 {
     public class ExcelData
     {

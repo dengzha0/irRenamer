@@ -17,7 +17,7 @@ using System.IO;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 
-namespace Renamer
+namespace irRenamer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

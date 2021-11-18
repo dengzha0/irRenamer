@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHvkD+CgciOgTs6i1vZ2f0XZigJJqp/8XlKm9QXL0WIDhrHBoylGkoNNOuwtoFIYa4x8tzRiDezylx8zcLxI8g==",
+  "dgSpecHash": "ChpV3C2VZ1OOOAI/WNENSQNhX5cyuNfpFb+Aq7/jRstXe3jt/aQ1lDe8c25CEiHz5wI/X2677FXLQVyUJpnqiA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Renamer\\Renamer\\Renamer.csproj",
+  "projectFilePath": "D:\\GitHub\\Renamer\\Renamer\\irRenamer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dengzhao\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
     "C:\\Users\\Dengzhao\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
