@@ -19,3 +19,11 @@ D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\ref\Renamer.dll
 D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\Renamer.pdb
 D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\Renamer.genruntimeconfig.cache
 D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\Renamer_Content.g.cs
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\NPOI.dll
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\GitHub\Renamer\Renamer\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\Renamer.csproj.AssemblyReference.cache
+D:\GitHub\Renamer\Renamer\obj\Debug\net6.0-windows\Renamer.csproj.CopyComplete

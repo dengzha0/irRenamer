@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FVYZMi1UlrUw9aE9BkUNixh5z5tGqupoQ2cQ9++USX3txOS6M+p1b0qms0MwHgHsKhRVgHG/EjTV9QwCAZdfCg==",
+  "dgSpecHash": "OHvkD+CgciOgTs6i1vZ2f0XZigJJqp/8XlKm9QXL0WIDhrHBoylGkoNNOuwtoFIYa4x8tzRiDezylx8zcLxI8g==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\Renamer\\Renamer\\Renamer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dengzhao\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
+    "C:\\Users\\Dengzhao\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Dengzhao\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512"
+  ],
   "logs": []
 }
